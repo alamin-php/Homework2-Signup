@@ -69,6 +69,7 @@ select {
     border-radius: 10px;
     font-size: 16px;
     text-align: center;
+    outline-color: #2ecc71;
 }
 
 .main-wrap h1 {
