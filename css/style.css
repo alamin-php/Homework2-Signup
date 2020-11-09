@@ -70,6 +70,7 @@ a{
 .main-wrap select {
 	width: 100%;
 	color: #808080;
+	text-align-last: center;
 }
 
 .main-wrap input[type="submit"] {
