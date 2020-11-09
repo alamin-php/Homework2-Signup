@@ -123,3 +123,14 @@ select {
     float: right;
     text-align: right;
 }
+
+
+/*==============================
+Responsive CSS
+================================*/
+
+@media only screen and (min-width: 200px) and (max-width: 991px) {
+    .main-wrap {
+        width: 400px;
+    }
+}
